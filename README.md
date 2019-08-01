@@ -18,7 +18,7 @@ In this project, I analyzed the interactions that users have with articles on th
 ### File Description: <a name="files"></a>
 There is 1 notebook called **Recommendations_with_IBM.ipynb** available here to showcase work related to this project. The notebook is exploratory in working with the data and using different recommendation methods pertaining to the project, and markdown cells were used to assist in walking through the individual steps for accomplishing the objective of this project.
 
-Inside the **data** folder, the two CSV files: **articles_community.csv** and **user-item-interactions.csv** are the datasets used for this project. Please refer to the Licensing, Authors, Acknowledgements section for more information about the IBM Watson Studio platform and dataset.
+Inside the **data** folder, the two CSV files: **articles_community.csv** and **user-item-interactions.csv** are the datasets used for this project. Please refer to the *Licensing, Authors, Acknowledgements* section for more information about the IBM Watson Studio platform and dataset.
 
 ### Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to IBM Watson Studio platform for the data. You can create your own account to become a part of their community, and get a better understanding of their data by creating an account on their platform [here](https://dataplatform.cloud.ibm.com/)! Otherwise, feel free to use the code here as you would like! 
